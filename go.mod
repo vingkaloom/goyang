@@ -1,4 +1,4 @@
-module github.com/vingkaloom/goyang
+module github.com/openconfig/goyang
 
 go 1.14
 
